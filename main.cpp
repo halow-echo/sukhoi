@@ -5,6 +5,9 @@
 
 int main()
 {
+  std::string text1 = "Hello World!";
+  animate(text1);
+  
   std::string text = "Hello There!";
   animate(text);
   
