@@ -1,7 +1,12 @@
+#include "header.h"
+
 #include <iostream>
+#include <string>
 
 int main()
 {
-  std::cout << "Hello World!\n";
+  std::string text = "Hello There!";
+  animate(text);
+  
   return 0;
 }
