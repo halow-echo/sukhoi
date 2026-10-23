@@ -3,4 +3,4 @@
 #include <string>
 
 void time_sleep(int n);
-void animate(std::string);
+void animate(std::string text);
